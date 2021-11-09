@@ -5,7 +5,7 @@
 Flight booking system is a try to apply hexagonal architecture and domain-driven design patterns to the clojure world.
 
 Keywords: `microservice`, `clojure`, `Hexagonal-Architecture`, `SOLID`, `dependecy-inversion`, `Domain-Driven Design`, 
-`functional-programming`, `Testing`, `Domain-Events`, `Kafka`, `pedestal`
+`functional-programming`, `Testing`, `Domain-Events`, `Pedestal`
 
 
 ## Test
