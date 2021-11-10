@@ -7,6 +7,13 @@ Flight booking system is a try to apply hexagonal architecture and domain-driven
 Keywords: `microservice`, `clojure`, `Hexagonal-Architecture`, `SOLID`, `dependecy-inversion`, `Domain-Driven Design`, 
 `functional-programming`, `Testing`, `Domain-Events`, `Pedestal`
 
+## Why
+
+Learning clojure I was wondering if an architecture pattern like hexagonal architecture that mainly relies on the 
+dependency inversion principle could make sense in a dynamic language where types are weak.
+
+Here you have the result, even though I am not an expert on clojure I think this pattern could be applied and can bring 
+its main benefit, the business/domain isolation.
 
 ## Test
 ```shell
