@@ -3,8 +3,6 @@
 (def concurrent-flight-modification-exception
   (ex-info "Already existent flight" {:type :concurrent-flight-modification}))
 
-; add aggregate-version
-
 (def non-existent-seat-exception
   (ex-info "Non existent seat" {:type :non-existent-seat}))
 
