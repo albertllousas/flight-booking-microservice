@@ -33,6 +33,7 @@ Ran 10 tests containing 34 assertions.
 
 ## Missing
 - Implement optimistic locking: keeping track of the version of the flight aggregate and throwing concurrent-flight-modification-exception when it happens.
+- Add specs to the flight domain
 
 ## Run
 
